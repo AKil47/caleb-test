@@ -1,5 +1,4 @@
 challenges:
 - name: PushMove
   submissions:
-  - MCTS-agent
-email: akil.anbu@gmail.com
+  - sample-MCTS-Bot
